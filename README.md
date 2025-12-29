@@ -54,10 +54,12 @@ Automation Layer
 Step 1: Clone the repository
 Step 2: Install dependencies
 Step 3: Run the application
+Run step by step
 
 #here are the bash command
 
 git clone https://github.com/MAquantum/hugo-procurement-ai-agent.git
+
 cd hugo-procurement-ai-agent
 
 pip install pandas streamlit
